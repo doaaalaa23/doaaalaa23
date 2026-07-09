@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Doaa Alaaelden 👋
 
-<!--
-**doaaalaa23/doaaalaa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer passionate about building intelligent applications using Machine Learning, NLP, Computer Vision, Generative AI, and Backend Development.
 
-Here are some ideas to get you started:
+🎓 Computer Science & Artificial Intelligence Graduate
+📍 Giza, Egypt
+📊 GPA: 3.75 / 4.00
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Natural Language Processing
+- Computer Vision
+- Backend Development
+- Computational Intelligence
+
+
+## Connect with me
+
+💼 LinkedIn www.linkedin.com/in/doaa-alaaelden-5aa336374
+🌐 Portfolio https://doaaalaa23.github.io/doaaalaaelden-portfolio/
+📧 Email doaaalaa237@gmail.com
