@@ -76,23 +76,6 @@ Passionate about building intelligent AI-powered applications that solve real-wo
 
 🔹 Machine Learning Models
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doaaalaa23&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doaaalaa23&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doaaalaa23&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌍 Connect With Me
 
