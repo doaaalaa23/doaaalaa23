@@ -29,40 +29,53 @@ Passionate about building intelligent AI-powered applications that solve real-wo
 ## 🚀 Technical Skills
 
 ### 🤖 Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Natural Language Processing
-- Computer Vision
-- Computational Intelligence
 
-### 💻 Programming
-- Python
-- C++
-- Java
-- SQL
-
-### ⚙️ Backend
-- FastAPI
-- REST APIs
-- SQLite
-- JWT Authentication
-
-### 🧰 AI & Data Science
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- OpenCV
-- Pandas
-- NumPy
-
-### ☁️ Tools
-- Git & GitHub
-- Docker
-- VS Code
-- Jupyter Notebook
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge" />
+</p>
 
 ---
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge" />
+</p>
+
+---
+
+### 🧠 AI & Data Science
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,jupyter" />
+</p>
 
 ## 📂 Featured Projects
 
